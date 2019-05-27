@@ -1,2 +1,2 @@
-# vue-jd-master
-京东全部商城
+# m.jd.com
+利用vue.js开发的京东移动端项目
